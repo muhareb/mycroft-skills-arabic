@@ -85,3 +85,6 @@
 [submodule "mycroft-version-checker"]
 	path = mycroft-version-checker
 	url = https://github.com/mycroftai/skill-version-checker.git
+[submodule "mycroft-stop"]
+	path = mycroft-stop
+	url = https://github.com/muhareb/skill-stop.git
