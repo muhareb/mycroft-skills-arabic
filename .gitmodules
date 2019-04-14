@@ -22,3 +22,69 @@
 [submodule "mycroft-stop"]
 	path = mycroft-stop
 	url = https://github.com/muhareb/skill-stop.git
+[submodule "mycroft-pairing"]
+	path = mycroft-pairing
+	url = https://github.com/mycroftai/skill-pairing.git
+[submodule "mycroft-configuration"]
+	path = mycroft-configuration
+	url = https://github.com/mycroftai/skill-configuration.git
+[submodule "mycroft-installer"]
+	path = mycroft-installer
+	url = https://github.com/mycroftai/skill-installer.git
+[submodule "mycroft-naptime"]
+	path = mycroft-naptime
+	url = https://github.com/mycroftai/skill-naptime.git
+[submodule "mycroft-playback-control"]
+	path = mycroft-playback-control
+	url = https://github.com/mycroftai/skill-playback-control.git
+[submodule "mycroft-speak"]
+	path = mycroft-speak
+	url = https://github.com/mycroftai/skill-speak.git
+[submodule "mycroft-volume"]
+	path = mycroft-volume
+	url = https://github.com/mycroftai/skill-volume.git
+[submodule "fallback-query"]
+	path = fallback-query
+	url = https://github.com/mycroftai/skill-query.git
+[submodule "mycroft-fallback-duck-duck-go"]
+	path = mycroft-fallback-duck-duck-go
+	url = https://github.com/mycroftai/fallback-duckduckgo.git
+[submodule "fallback-wolfram-alpha"]
+	path = fallback-wolfram-alpha
+	url = https://github.com/mycroftai/skill-wolfram-alpha.git
+[submodule "mycroft-alarm"]
+	path = mycroft-alarm
+	url = https://github.com/mycroftai/skill-alarm.git
+[submodule "mycroft-audio-record"]
+	path = mycroft-audio-record
+	url = https://github.com/mycroftai/skill-audio-record.git
+[submodule "mycroft-ip"]
+	path = mycroft-ip
+	url = https://github.com/mycroftai/skill-ip.git
+[submodule "mycroft-joke"]
+	path = mycroft-joke
+	url = https://github.com/mycroftai/skill-joke.git
+[submodule "mycroft-personal"]
+	path = mycroft-personal
+	url = https://github.com/mycroftai/skill-personal.git
+[submodule "mycroft-reminder"]
+	path = mycroft-reminder
+	url = https://github.com/mycroftai/skill-reminder.git
+[submodule "mycroft-spelling"]
+	path = mycroft-spelling
+	url = https://github.com/mycroftai/skill-spelling.git
+[submodule "mycroft-stock"]
+	path = mycroft-stock
+	url = https://github.com/mycroftai/skill-stock.git
+[submodule "mycroft-support-helper"]
+	path = mycroft-support-helper
+	url = https://github.com/mycroftai/skill-support.git
+[submodule "mycroft-timer"]
+	path = mycroft-timer
+	url = https://github.com/mycroftai/mycroft-timer.git
+[submodule "mycroft-weather"]
+	path = mycroft-weather
+	url = https://github.com/mycroftai/skill-weather.git
+[submodule "mycroft-version-checker"]
+	path = mycroft-version-checker
+	url = https://github.com/mycroftai/skill-version-checker.git
