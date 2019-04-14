@@ -1,0 +1,24 @@
+[submodule "skill-quran"]
+	path = skill-quran
+	url = https://github.com/muhareb/skill-quran.git
+[submodule "mycroft-hello-world"]
+	path = mycroft-hello-world
+	url = https://github.com/muhareb/skill-hello-world.git
+[submodule "mycroft-date-time"]
+	path = mycroft-date-time
+	url = https://github.com/muhareb/skill-date-time.git
+[submodule "mycroft-npr-news"]
+	path = mycroft-npr-news
+	url = https://github.com/muhareb/skill-npr-news.git
+[submodule "mycroft-singing"]
+	path = mycroft-singing
+	url = https://github.com/muhareb/skill-singing.git
+[submodule "fallback-unknown"]
+	path = fallback-unknown
+	url = https://github.com/muhareb/fallback-unknown.git
+[submodule "mycroft-wiki"]
+	path = mycroft-wiki
+	url = https://github.com/muhareb/skill-wiki.git
+[submodule "mycroft-stop"]
+	path = mycroft-stop
+	url = https://github.com/muhareb/skill-stop.git
