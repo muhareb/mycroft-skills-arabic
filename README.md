@@ -21,7 +21,7 @@ If you want to write **Skills** for Mycroft, Documentation is available:
 * [Mycroft Skills Manager](https://mycroft.ai/documentation/msm/)
 * [Mycroft Message Bus](https://mycroft.ai/documentation/message-bus/)
 
-# Available Skills
+# Available Skills 
 
 You can easily browse skills in this repo via the [Mycroft Marketplace](https://market.mycroft.ai).
 
