@@ -64,9 +64,6 @@
 [submodule "mycroft-support-helper"]
 	path = mycroft-support-helper
 	url = https://github.com/mycroftai/skill-support.git
-[submodule "mycroft-timer"]
-	path = mycroft-timer
-	url = https://github.com/mycroftai/mycroft-timer.git
 [submodule "mycroft-weather"]
 	path = mycroft-weather
 	url = https://github.com/mycroftai/skill-weather.git
@@ -88,3 +85,6 @@
 [submodule "mycroft-fallback-duck-duck-go"]
 	path = mycroft-fallback-duck-duck-go
 	url = https://github.com/mycroftai/fallback-duckduckgo.git
+[submodule "mycroft-timer"]
+	path = mycroft-timer
+	url = https://github.com/mycroftai/mycroft-timer.git
