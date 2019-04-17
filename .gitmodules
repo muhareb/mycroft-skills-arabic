@@ -28,9 +28,6 @@
 [submodule "fallback-query"]
 	path = fallback-query
 	url = https://github.com/mycroftai/skill-query.git
-[submodule "fallback-wolfram-alpha"]
-	path = fallback-wolfram-alpha
-	url = https://github.com/mycroftai/skill-wolfram-alpha.git
 [submodule "mycroft-audio-record"]
 	path = mycroft-audio-record
 	url = https://github.com/mycroftai/skill-audio-record.git
@@ -88,3 +85,6 @@
 [submodule "mycroft-installer"]
 	path = mycroft-installer
 	url = https://github.com/mycroftai/skill-installer.git
+[submodule "fallback-wolfram-alpha"]
+	path = fallback-wolfram-alpha
+	url = https://github.com/mycroftai/skill-wolfram-alpha.git
