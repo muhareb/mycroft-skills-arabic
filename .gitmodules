@@ -52,9 +52,6 @@
 [submodule "mycroft-personal"]
 	path = mycroft-personal
 	url = https://github.com/mycroftai/skill-personal.git
-[submodule "mycroft-reminder"]
-	path = mycroft-reminder
-	url = https://github.com/mycroftai/skill-reminder.git
 [submodule "mycroft-spelling"]
 	path = mycroft-spelling
 	url = https://github.com/mycroftai/skill-spelling.git
@@ -88,3 +85,6 @@
 [submodule "mycroft-timer"]
 	path = mycroft-timer
 	url = https://github.com/mycroftai/mycroft-timer.git
+[submodule "mycroft-reminder"]
+	path = mycroft-reminder
+	url = https://github.com/mycroftai/skill-reminder.git
