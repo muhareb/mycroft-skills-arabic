@@ -19,9 +19,6 @@
 [submodule "mycroft-naptime"]
 	path = mycroft-naptime
 	url = https://github.com/mycroftai/skill-naptime.git
-[submodule "mycroft-playback-control"]
-	path = mycroft-playback-control
-	url = https://github.com/mycroftai/skill-playback-control.git
 [submodule "mycroft-speak"]
 	path = mycroft-speak
 	url = https://github.com/mycroftai/skill-speak.git
@@ -88,3 +85,6 @@
 [submodule "fallback-wolfram-alpha"]
 	path = fallback-wolfram-alpha
 	url = https://github.com/mycroftai/skill-wolfram-alpha.git
+[submodule "mycroft-playback-control"]
+	path = mycroft-playback-control
+	url = https://github.com/mycroftai/skill-playback-control.git
