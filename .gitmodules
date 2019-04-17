@@ -43,9 +43,6 @@
 [submodule "mycroft-stock"]
 	path = mycroft-stock
 	url = https://github.com/mycroftai/skill-stock.git
-[submodule "mycroft-support-helper"]
-	path = mycroft-support-helper
-	url = https://github.com/mycroftai/skill-support.git
 [submodule "mycroft-weather"]
 	path = mycroft-weather
 	url = https://github.com/mycroftai/skill-weather.git
@@ -88,3 +85,6 @@
 [submodule "mycroft-playback-control"]
 	path = mycroft-playback-control
 	url = https://github.com/mycroftai/skill-playback-control.git
+[submodule "mycroft-support-helper"]
+	path = mycroft-support-helper
+	url = https://github.com/mycroftai/skill-support.git
