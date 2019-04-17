@@ -16,9 +16,6 @@
 [submodule "mycroft-pairing"]
 	path = mycroft-pairing
 	url = https://github.com/mycroftai/skill-pairing.git
-[submodule "mycroft-installer"]
-	path = mycroft-installer
-	url = https://github.com/mycroftai/skill-installer.git
 [submodule "mycroft-naptime"]
 	path = mycroft-naptime
 	url = https://github.com/mycroftai/skill-naptime.git
@@ -88,3 +85,6 @@
 [submodule "mycroft-configuration"]
 	path = mycroft-configuration
 	url = https://github.com/mycroftai/skill-configuration.git
+[submodule "mycroft-installer"]
+	path = mycroft-installer
+	url = https://github.com/mycroftai/skill-installer.git
