@@ -37,9 +37,6 @@
 [submodule "fallback-wolfram-alpha"]
 	path = fallback-wolfram-alpha
 	url = https://github.com/mycroftai/skill-wolfram-alpha.git
-[submodule "mycroft-alarm"]
-	path = mycroft-alarm
-	url = https://github.com/mycroftai/skill-alarm.git
 [submodule "mycroft-audio-record"]
 	path = mycroft-audio-record
 	url = https://github.com/mycroftai/skill-audio-record.git
@@ -88,3 +85,6 @@
 [submodule "mycroft-reminder"]
 	path = mycroft-reminder
 	url = https://github.com/mycroftai/skill-reminder.git
+[submodule "mycroft-alarm"]
+	path = mycroft-alarm
+	url = https://github.com/mycroftai/skill-alarm.git
