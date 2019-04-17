@@ -25,9 +25,6 @@
 [submodule "fallback-query"]
 	path = fallback-query
 	url = https://github.com/mycroftai/skill-query.git
-[submodule "mycroft-audio-record"]
-	path = mycroft-audio-record
-	url = https://github.com/mycroftai/skill-audio-record.git
 [submodule "mycroft-ip"]
 	path = mycroft-ip
 	url = https://github.com/mycroftai/skill-ip.git
@@ -88,3 +85,6 @@
 [submodule "mycroft-support-helper"]
 	path = mycroft-support-helper
 	url = https://github.com/mycroftai/skill-support.git
+[submodule "mycroft-audio-record"]
+	path = mycroft-audio-record
+	url = https://github.com/mycroftai/skill-audio-record.git
