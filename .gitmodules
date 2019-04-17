@@ -31,9 +31,6 @@
 [submodule "mycroft-speak"]
 	path = mycroft-speak
 	url = https://github.com/mycroftai/skill-speak.git
-[submodule "mycroft-volume"]
-	path = mycroft-volume
-	url = https://github.com/mycroftai/skill-volume.git
 [submodule "fallback-query"]
 	path = fallback-query
 	url = https://github.com/mycroftai/skill-query.git
@@ -88,3 +85,6 @@
 [submodule "mycroft-date-time"]
 	path = mycroft-date-time
 	url = https://github.com/muhareb/skill-date-time.git
+[submodule "mycroft-volume"]
+	path = mycroft-volume
+	url = https://github.com/mycroftai/skill-volume.git
