@@ -34,9 +34,6 @@
 [submodule "fallback-query"]
 	path = fallback-query
 	url = https://github.com/mycroftai/skill-query.git
-[submodule "mycroft-fallback-duck-duck-go"]
-	path = mycroft-fallback-duck-duck-go
-	url = https://github.com/mycroftai/fallback-duckduckgo.git
 [submodule "fallback-wolfram-alpha"]
 	path = fallback-wolfram-alpha
 	url = https://github.com/mycroftai/skill-wolfram-alpha.git
@@ -88,3 +85,6 @@
 [submodule "mycroft-volume"]
 	path = mycroft-volume
 	url = https://github.com/mycroftai/skill-volume.git
+[submodule "mycroft-fallback-duck-duck-go"]
+	path = mycroft-fallback-duck-duck-go
+	url = https://github.com/mycroftai/fallback-duckduckgo.git
