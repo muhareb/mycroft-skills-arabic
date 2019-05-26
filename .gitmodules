@@ -43,9 +43,6 @@
 [submodule "mycroft-fallback-duck-duck-go"]
 	path = mycroft-fallback-duck-duck-go
 	url = https://github.com/mycroftai/fallback-duckduckgo.git
-[submodule "mycroft-timer"]
-	path = mycroft-timer
-	url = https://github.com/mycroftai/mycroft-timer.git
 [submodule "mycroft-alarm"]
 	path = mycroft-alarm
 	url = https://github.com/mycroftai/skill-alarm.git
@@ -88,3 +85,6 @@
 [submodule "mycroft-spelling"]
 	path = mycroft-spelling
 	url = https://github.com/muhareb/skill-spelling.git
+[submodule "mycroft-timer"]
+	path = mycroft-timer
+	url = https://github.com/muhareb/mycroft-timer.git
