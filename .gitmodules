@@ -70,9 +70,6 @@
 [submodule "mycroft-naptime"]
 	path = mycroft-naptime
 	url = https://github.com/muhareb/skill-naptime.git
-[submodule "mycroft-weather"]
-	path = mycroft-weather
-	url = https://github.com/muhareb/skill-weather.git
 [submodule "mycroft-audio-record"]
 	path = mycroft-audio-record
 	url = https://github.com/muhareb/skill-audio-record.git
@@ -82,9 +79,12 @@
 [submodule "mycroft-volume"]
 	path = mycroft-volume
 	url = https://github.com/muhareb/skill-volume.git
-[submodule "mycroft-spelling"]
-	path = mycroft-spelling
-	url = https://github.com/muhareb/skill-spelling.git
 [submodule "mycroft-timer"]
 	path = mycroft-timer
 	url = https://github.com/muhareb/mycroft-timer.git
+[submodule "mycroft-weather"]
+	path = mycroft-weather
+	url = https://github.com/muhareb/skill-weather.git
+[submodule "mycroft-spelling"]
+	path = mycroft-spelling
+	url = https://github.com/muhareb/skill-spelling.git
