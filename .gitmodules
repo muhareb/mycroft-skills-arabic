@@ -46,18 +46,12 @@
 [submodule "mycroft-alarm"]
 	path = mycroft-alarm
 	url = https://github.com/mycroftai/skill-alarm.git
-[submodule "mycroft-configuration"]
-	path = mycroft-configuration
-	url = https://github.com/mycroftai/skill-configuration.git
 [submodule "mycroft-installer"]
 	path = mycroft-installer
 	url = https://github.com/mycroftai/skill-installer.git
 [submodule "fallback-wolfram-alpha"]
 	path = fallback-wolfram-alpha
 	url = https://github.com/mycroftai/skill-wolfram-alpha.git
-[submodule "mycroft-playback-control"]
-	path = mycroft-playback-control
-	url = https://github.com/mycroftai/skill-playback-control.git
 [submodule "mycroft-support-helper"]
 	path = mycroft-support-helper
 	url = https://github.com/mycroftai/skill-support.git
@@ -88,3 +82,9 @@
 [submodule "mycroft-spelling"]
 	path = mycroft-spelling
 	url = https://github.com/muhareb/skill-spelling.git
+[submodule "mycroft-configuration"]
+	path = mycroft-configuration
+	url = https://github.com/muhareb/skill-configuration.git
+[submodule "mycroft-playback-control"]
+	path = mycroft-playback-control
+	url = https://github.com/muhareb/skill-playback-control.git
