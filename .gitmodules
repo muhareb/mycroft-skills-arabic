@@ -88,3 +88,6 @@
 [submodule "mycroft-playback-control"]
 	path = mycroft-playback-control
 	url = https://github.com/muhareb/skill-playback-control.git
+[submodule "wikiquote-skill"]
+	path = wikiquote-skill
+	url = https://github.com/muhareb/wikiquote-skill.git
