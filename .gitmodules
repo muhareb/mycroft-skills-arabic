@@ -58,9 +58,6 @@
 [submodule "mycroft-personal"]
 	path = mycroft-personal
 	url = https://github.com/muhareb/skill-personal.git
-[submodule "mycroft-reminder"]
-	path = mycroft-reminder
-	url = https://github.com/muhareb/skill-reminder.git
 [submodule "mycroft-naptime"]
 	path = mycroft-naptime
 	url = https://github.com/muhareb/skill-naptime.git
@@ -70,15 +67,6 @@
 [submodule "mycroft-speak"]
 	path = mycroft-speak
 	url = https://github.com/muhareb/skill-speak.git
-[submodule "mycroft-volume"]
-	path = mycroft-volume
-	url = https://github.com/muhareb/skill-volume.git
-[submodule "mycroft-timer"]
-	path = mycroft-timer
-	url = https://github.com/muhareb/mycroft-timer.git
-[submodule "mycroft-weather"]
-	path = mycroft-weather
-	url = https://github.com/muhareb/skill-weather.git
 [submodule "mycroft-spelling"]
 	path = mycroft-spelling
 	url = https://github.com/muhareb/skill-spelling.git
@@ -91,3 +79,15 @@
 [submodule "wikiquote-skill"]
 	path = wikiquote-skill
 	url = https://github.com/muhareb/wikiquote-skill.git
+[submodule "mycroft-reminder"]
+	path = mycroft-reminder
+	url = https://github.com/muhareb/skill-reminder.git
+[submodule "mycroft-timer"]
+	path = mycroft-timer
+	url = https://github.com/muhareb/mycroft-timer.git
+[submodule "mycroft-volume"]
+	path = mycroft-volume
+	url = https://github.com/muhareb/skill-volume.git
+[submodule "mycroft-weather"]
+	path = mycroft-weather
+	url = https://github.com/muhareb/skill-weather.git
