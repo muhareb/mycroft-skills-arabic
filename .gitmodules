@@ -76,9 +76,6 @@
 [submodule "mycroft-playback-control"]
 	path = mycroft-playback-control
 	url = https://github.com/muhareb/skill-playback-control.git
-[submodule "wikiquote-skill"]
-	path = wikiquote-skill
-	url = https://github.com/muhareb/wikiquote-skill.git
 [submodule "mycroft-reminder"]
 	path = mycroft-reminder
 	url = https://github.com/muhareb/skill-reminder.git
@@ -91,3 +88,6 @@
 [submodule "mycroft-weather"]
 	path = mycroft-weather
 	url = https://github.com/muhareb/skill-weather.git
+[submodule "wikiquote-skill"]
+	path = wikiquote-skill
+	url = https://github.com/muhareb/wikiquote-skill.git
