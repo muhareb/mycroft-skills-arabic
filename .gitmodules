@@ -13,9 +13,6 @@
 [submodule "mycroft-wiki"]
 	path = mycroft-wiki
 	url = https://github.com/muhareb/skill-wiki.git
-[submodule "mycroft-pairing"]
-	path = mycroft-pairing
-	url = https://github.com/mycroftai/skill-pairing.git
 [submodule "fallback-query"]
 	path = fallback-query
 	url = https://github.com/mycroftai/skill-query.git
@@ -91,3 +88,6 @@
 [submodule "mycroft-weather"]
 	path = mycroft-weather
 	url = https://github.com/muhareb/skill-weather.git
+[submodule "mycroft-pairing"]
+	path = mycroft-pairing
+	url = https://github.com/muhareb/skill-pairing.git
