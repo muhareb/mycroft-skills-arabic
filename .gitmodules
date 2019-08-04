@@ -1,18 +1,3 @@
-[submodule "skill-quran"]
-	path = skill-quran
-	url = https://github.com/muhareb/skill-quran.git
-[submodule "mycroft-hello-world"]
-	path = mycroft-hello-world
-	url = https://github.com/muhareb/skill-hello-world.git
-[submodule "mycroft-npr-news"]
-	path = mycroft-npr-news
-	url = https://github.com/muhareb/skill-npr-news.git
-[submodule "mycroft-singing"]
-	path = mycroft-singing
-	url = https://github.com/muhareb/skill-singing.git
-[submodule "mycroft-wiki"]
-	path = mycroft-wiki
-	url = https://github.com/muhareb/skill-wiki.git
 [submodule "fallback-query"]
 	path = fallback-query
 	url = https://github.com/mycroftai/skill-query.git
@@ -28,15 +13,9 @@
 [submodule "mycroft-version-checker"]
 	path = mycroft-version-checker
 	url = https://github.com/mycroftai/skill-version-checker.git
-[submodule "mycroft-stop"]
-	path = mycroft-stop
-	url = https://github.com/muhareb/skill-stop.git
 [submodule "fallback-unknown"]
 	path = fallback-unknown
 	url = https://github.com/muhareb/fallback-unknown.git
-[submodule "mycroft-date-time"]
-	path = mycroft-date-time
-	url = https://github.com/muhareb/skill-date-time.git
 [submodule "mycroft-fallback-duck-duck-go"]
 	path = mycroft-fallback-duck-duck-go
 	url = https://github.com/mycroftai/fallback-duckduckgo.git
@@ -52,42 +31,63 @@
 [submodule "mycroft-support-helper"]
 	path = mycroft-support-helper
 	url = https://github.com/mycroftai/skill-support.git
-[submodule "mycroft-personal"]
-	path = mycroft-personal
-	url = https://github.com/muhareb/skill-personal.git
-[submodule "mycroft-naptime"]
-	path = mycroft-naptime
-	url = https://github.com/muhareb/skill-naptime.git
+[submodule "mycroft-pairing"]
+	path = mycroft-pairing
+	url = https://github.com/muhareb/skill-pairing.git
 [submodule "mycroft-audio-record"]
 	path = mycroft-audio-record
 	url = https://github.com/muhareb/skill-audio-record.git
-[submodule "mycroft-speak"]
-	path = mycroft-speak
-	url = https://github.com/muhareb/skill-speak.git
-[submodule "mycroft-spelling"]
-	path = mycroft-spelling
-	url = https://github.com/muhareb/skill-spelling.git
 [submodule "mycroft-configuration"]
 	path = mycroft-configuration
 	url = https://github.com/muhareb/skill-configuration.git
+[submodule "mycroft-date-time"]
+	path = mycroft-date-time
+	url = https://github.com/muhareb/skill-date-time.git
+[submodule "mycroft-hello-world"]
+	path = mycroft-hello-world
+	url = https://github.com/muhareb/skill-hello-world.git
+[submodule "mycroft-naptime"]
+	path = mycroft-naptime
+	url = https://github.com/muhareb/skill-naptime.git
+[submodule "mycroft-npr-news"]
+	path = mycroft-npr-news
+	url = https://github.com/muhareb/skill-npr-news.git
+[submodule "mycroft-personal"]
+	path = mycroft-personal
+	url = https://github.com/muhareb/skill-personal.git
 [submodule "mycroft-playback-control"]
 	path = mycroft-playback-control
 	url = https://github.com/muhareb/skill-playback-control.git
 [submodule "mycroft-reminder"]
 	path = mycroft-reminder
 	url = https://github.com/muhareb/skill-reminder.git
+[submodule "mycroft-singing"]
+	path = mycroft-singing
+	url = https://github.com/muhareb/skill-singing.git
+[submodule "mycroft-speak"]
+	path = mycroft-speak
+	url = https://github.com/muhareb/skill-speak.git
+[submodule "mycroft-spelling"]
+	path = mycroft-spelling
+	url = https://github.com/muhareb/skill-spelling.git
+[submodule "mycroft-stop"]
+	path = mycroft-stop
+	url = https://github.com/muhareb/skill-stop.git
 [submodule "mycroft-timer"]
 	path = mycroft-timer
 	url = https://github.com/muhareb/mycroft-timer.git
 [submodule "mycroft-volume"]
 	path = mycroft-volume
 	url = https://github.com/muhareb/skill-volume.git
-[submodule "wikiquote-skill"]
-	path = wikiquote-skill
-	url = https://github.com/muhareb/wikiquote-skill.git
 [submodule "mycroft-weather"]
 	path = mycroft-weather
 	url = https://github.com/muhareb/skill-weather.git
-[submodule "mycroft-pairing"]
-	path = mycroft-pairing
-	url = https://github.com/muhareb/skill-pairing.git
+[submodule "mycroft-wiki"]
+	path = mycroft-wiki
+	url = https://github.com/muhareb/skill-wiki.git
+[submodule "skill-quran"]
+	path = skill-quran
+	url = https://github.com/muhareb/skill-quran.git
+[submodule "wikiquote-skill"]
+	path = wikiquote-skill
+	url = https://github.com/muhareb/wikiquote-skill.git
