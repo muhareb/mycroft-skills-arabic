@@ -85,9 +85,9 @@
 [submodule "mycroft-wiki"]
 	path = mycroft-wiki
 	url = https://github.com/muhareb/skill-wiki.git
-[submodule "skill-quran"]
-	path = skill-quran
-	url = https://github.com/muhareb/skill-quran.git
 [submodule "wikiquote-skill"]
 	path = wikiquote-skill
 	url = https://github.com/muhareb/wikiquote-skill.git
+[submodule "skill-quran"]
+	path = skill-quran
+	url = https://github.com/muhareb/skill-quran.git
