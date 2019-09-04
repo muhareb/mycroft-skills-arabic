@@ -19,18 +19,6 @@
 [submodule "mycroft-fallback-duck-duck-go"]
 	path = mycroft-fallback-duck-duck-go
 	url = https://github.com/mycroftai/fallback-duckduckgo.git
-[submodule "mycroft-alarm"]
-	path = mycroft-alarm
-	url = https://github.com/mycroftai/skill-alarm.git
-[submodule "mycroft-installer"]
-	path = mycroft-installer
-	url = https://github.com/mycroftai/skill-installer.git
-[submodule "fallback-wolfram-alpha"]
-	path = fallback-wolfram-alpha
-	url = https://github.com/mycroftai/skill-wolfram-alpha.git
-[submodule "mycroft-support-helper"]
-	path = mycroft-support-helper
-	url = https://github.com/mycroftai/skill-support.git
 [submodule "mycroft-pairing"]
 	path = mycroft-pairing
 	url = https://github.com/muhareb/skill-pairing.git
@@ -91,3 +79,15 @@
 [submodule "skill-quran"]
 	path = skill-quran
 	url = https://github.com/muhareb/skill-quran.git
+[submodule "mycroft-support-helper"]
+	path = mycroft-support-helper
+	url = https://github.com/mycroftai/skill-support.git
+[submodule "mycroft-installer"]
+	path = mycroft-installer
+	url = https://github.com/mycroftai/skill-installer.git
+[submodule "fallback-wolfram-alpha"]
+	path = fallback-wolfram-alpha
+	url = https://github.com/mycroftai/skill-wolfram-alpha.git
+[submodule "mycroft-alarm"]
+	path = mycroft-alarm
+	url = https://github.com/mycroftai/skill-alarm.git
