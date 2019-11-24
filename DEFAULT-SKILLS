@@ -1,7 +1,7 @@
 # core
 mycroft-pairing
 mycroft-configuration
-mycroft-installer
+### mycroft-installer
 mycroft-stop
 mycroft-naptime
 mycroft-playback-control
@@ -11,9 +11,9 @@ fallback-query
 
 # common
 mycroft-fallback-duck-duck-go
-fallback-wolfram-alpha
+### fallback-wolfram-alpha
 fallback-unknown
-mycroft-alarm
+### mycroft-alarm
 mycroft-audio-record
 mycroft-date-time
 mycroft-hello-world
@@ -25,7 +25,7 @@ mycroft-reminder
 mycroft-singing
 mycroft-spelling
 mycroft-stock
-mycroft-support-helper
+### mycroft-support-helper
 mycroft-timer
 mycroft-weather
 mycroft-wiki
