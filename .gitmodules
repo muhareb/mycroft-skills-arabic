@@ -19,18 +19,6 @@
 [submodule "wikiquote-skill"]
 	path = wikiquote-skill
 	url = https://github.com/muhareb/wikiquote-skill.git
-[submodule "mycroft-support-helper"]
-	path = mycroft-support-helper
-	url = https://github.com/mycroftai/skill-support.git
-[submodule "mycroft-installer"]
-	path = mycroft-installer
-	url = https://github.com/mycroftai/skill-installer.git
-[submodule "fallback-wolfram-alpha"]
-	path = fallback-wolfram-alpha
-	url = https://github.com/mycroftai/skill-wolfram-alpha.git
-[submodule "mycroft-alarm"]
-	path = mycroft-alarm
-	url = https://github.com/mycroftai/skill-alarm.git
 [submodule "skill-quran"]
 	path = skill-quran
 	url = https://github.com/muhareb/skill-quran.git
