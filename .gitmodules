@@ -1,9 +1,6 @@
 [submodule "fallback-query"]
 	path = fallback-query
 	url = https://github.com/mycroftai/skill-query.git
-[submodule "mycroft-ip"]
-	path = mycroft-ip
-	url = https://github.com/mycroftai/skill-ip.git
 [submodule "mycroft-joke"]
 	path = mycroft-joke
 	url = https://github.com/mycroftai/skill-joke.git
@@ -79,3 +76,6 @@
 [submodule "mycroft-npr-news"]
 	path = mycroft-npr-news
 	url = https://github.com/muhareb/skill-npr-news.git
+[submodule "mycroft-ip"]
+	path = mycroft-ip
+	url = https://github.com/muhareb/skill-ip.git
