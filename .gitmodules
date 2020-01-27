@@ -79,3 +79,6 @@
 [submodule "mycroft-ip"]
 	path = mycroft-ip
 	url = https://github.com/muhareb/skill-ip.git
+[submodule "finished-booting"]
+	path = finished-booting
+	url = https://github.com/muhareb/skill-finished-booting.git
