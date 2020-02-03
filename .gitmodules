@@ -76,9 +76,9 @@
 [submodule "mycroft-npr-news"]
 	path = mycroft-npr-news
 	url = https://github.com/muhareb/skill-npr-news.git
-[submodule "mycroft-ip"]
-	path = mycroft-ip
-	url = https://github.com/muhareb/skill-ip.git
 [submodule "finished-booting"]
 	path = finished-booting
 	url = https://github.com/muhareb/skill-finished-booting.git
+[submodule "mycroft-ip"]
+	path = mycroft-ip
+	url = https://github.com/muhareb/skill-ip.git
