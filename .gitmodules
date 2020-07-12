@@ -13,9 +13,6 @@
 [submodule "mycroft-fallback-duck-duck-go"]
 	path = mycroft-fallback-duck-duck-go
 	url = https://github.com/mycroftai/fallback-duckduckgo.git
-[submodule "skill-quran"]
-	path = skill-quran
-	url = https://github.com/muhareb/skill-quran.git
 [submodule "mycroft-hello-world"]
 	path = mycroft-hello-world
 	url = https://github.com/muhareb/skill-hello-world.git
@@ -82,3 +79,6 @@
 [submodule "wikiquote-skill"]
 	path = wikiquote-skill
 	url = https://github.com/muhareb/wikiquote-skill.git
+[submodule "skill-quran"]
+	path = skill-quran
+	url = https://github.com/muhareb/skill-quran.git
