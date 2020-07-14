@@ -82,3 +82,7 @@
 [submodule "skill-quran"]
 	path = skill-quran
 	url = https://github.com/muhareb/skill-quran.git
+[submodule "RasaChat-skill"]
+	path = RasaChat-skill
+	url = https://github.com/muhareb/RasaChat.git
+	branch = master
