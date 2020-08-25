@@ -67,9 +67,6 @@
 [submodule "mycroft-singing"]
 	path = mycroft-singing
 	url = https://github.com/muhareb/skill-singing.git
-[submodule "mycroft-npr-news"]
-	path = mycroft-npr-news
-	url = https://github.com/muhareb/skill-npr-news.git
 [submodule "finished-booting"]
 	path = finished-booting
 	url = https://github.com/muhareb/skill-finished-booting.git
@@ -85,3 +82,6 @@
 [submodule "rasa-chat"]
 	path = rasa-chat
 	url = https://github.com/muhareb/rasa-chat.git
+[submodule "mycroft-npr-news"]
+	path = mycroft-npr-news
+	url = https://github.com/muhareb/skill-npr-news.git
